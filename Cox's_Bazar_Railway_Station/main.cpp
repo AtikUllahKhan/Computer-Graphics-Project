@@ -9992,23 +9992,23 @@ void information(void)
 
     renderBitmapString(-0.84,0.7, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "21-45670-3");
     renderBitmapString(-0.22, 0.7, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "MD. FAISAL");
-    renderBitmapString(0.74, 0.7, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "18");
+    renderBitmapString(0.74, 0.7, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "15");
 
     renderBitmapString(-0.84, 0.65, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "21-45672-3");
     renderBitmapString(-0.22, 0.65, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "ABIR HASAN");
-    renderBitmapString(0.74, 0.65, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "18");
+    renderBitmapString(0.74, 0.65, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "15");
 
     renderBitmapString(-0.84, 0.6, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "21-45677-3");
     renderBitmapString(-0.22, 0.6, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "MD. ATIK ULLAH KHAN");
-    renderBitmapString(0.74, 0.6, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "28");
+    renderBitmapString(0.74, 0.6, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "40");
 
     renderBitmapString(-0.84, 0.55, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "21-45678-3");
     renderBitmapString(-0.22, 0.55, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "MD. IFTEAR HOSSAIN RATUL");
-    renderBitmapString(0.74, 0.55, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "18");
+    renderBitmapString(0.74, 0.55, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "15");
 
     renderBitmapString(-0.84, 0.5, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "21-45719-3");
     renderBitmapString(-0.22, 0.5, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "TAHFIM IBN KHAN");
-    renderBitmapString(0.74, 0.5, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "18");
+    renderBitmapString(0.74, 0.5, 0.0f, GLUT_BITMAP_TIMES_ROMAN_24, "15");
 
     glLineWidth(4);
     glBegin(GL_LINES);
